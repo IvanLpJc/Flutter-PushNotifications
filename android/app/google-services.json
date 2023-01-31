@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355550249902",
+    "project_id": "flutter-push-notificatio-50e2e",
+    "storage_bucket": "flutter-push-notificatio-50e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355550249902:android:ccaec7c3a50c1db45efe3f",
+        "android_client_info": {
+          "package_name": "com.taisoncorporation.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355550249902-0b0mtju24ep8mmplop6qkqm71tctssij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taisoncorporation.push_notifications",
+            "certificate_hash": "ee7b27d07b923b19d16e023db6136b96f55fa155"
+          }
+        },
+        {
+          "client_id": "355550249902-quqcuh4md1crpurmnb4ae1rire9cs7m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhHZZp1wa8Wi0oC8Fx7TbP-KKEDfPxsSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355550249902-quqcuh4md1crpurmnb4ae1rire9cs7m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
